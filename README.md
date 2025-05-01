@@ -1,1 +1,1 @@
-
+This tool helps you generate personalized conversation starters by combining data from a person's LinkedIn and Twitter profiles. It’s perfect for networking, sales outreach, interviews, or any context where you want to quickly understand and connect with someone.
